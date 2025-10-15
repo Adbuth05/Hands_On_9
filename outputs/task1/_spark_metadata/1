@@ -1,0 +1,3 @@
+v1
+{"path":"file:///workspaces/Hands_On_9/outputs/task1/part-00000-5b240204-ab9e-4f0d-a316-3d4e7eee3c6e-c000.csv","size":124,"isDir":false,"modificationTime":1760563661359,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///workspaces/Hands_On_9/outputs/task1/part-00001-450b464b-7ca1-4e95-8ca5-6750fadeea92-c000.csv","size":123,"isDir":false,"modificationTime":1760563661373,"blockReplication":1,"blockSize":33554432,"action":"add"}
